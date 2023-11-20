@@ -32,7 +32,7 @@ function generateAsteroid(canvas, num) {
 		asteroids.push(asteroid);
 	}
 	
-	console.log(asteroids);
+	//console.log(asteroids);
 }
 
 // funkcija koja provjerava jeli doslo do sudara
